@@ -1,4 +1,4 @@
-### Hi there, I amm Satyanchal 👋
+### Hi there, I am Satyanchal 👋
 
 ## I'm a 🎓Student, 💻 Developer and 🎨 Artist!
 - 🔭 I’m currently working on Artificial Intelligence project.
