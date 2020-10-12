@@ -32,9 +32,8 @@
 <br />
 
 ---
-<img align="left" alt="Satyanchal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluehatcoders&show_icons=true&hide_border=true" />
+<img align="left" alt="Satyanchal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluehatcoders&show_icons=true&hide_border=true" width="500"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatcoders&layout=compact" alt="iamsatyanchal" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Bluehatcoders" alt="iamsatyanchal" />
 
 
 [website]: https://bit.ly/fridayassistant
