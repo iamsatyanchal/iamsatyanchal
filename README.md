@@ -33,7 +33,7 @@
 
 ---
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<img alt="Satyanchal's Github Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=bluehatcoders&show_icons=true&hide_border=true">
+<!--img alt="Satyanchal's Github Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=bluehatcoders&show_icons=true&hide_border=true"-->
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatcoders&layout=compact" alt="iamsatyanchal">
 
 
