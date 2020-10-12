@@ -33,6 +33,7 @@
 
 ---
 <img align="left" alt="Satyanchal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluehatcoders&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatcoders&layout=compact" alt="iamsatyanchal" />
 
 [website]: https://bit.ly/fridayassistant
 [twitter]: https://twitter.com/iamsatyanchal
