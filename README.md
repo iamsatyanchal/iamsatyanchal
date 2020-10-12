@@ -32,7 +32,7 @@
 <br />
 
 ---
-<img align="left" alt="Satyanchal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluehatcoders&show_icons=true&hide_border=true" width="500"/>
+<img align="left" style="max-width:500px;" alt="Satyanchal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluehatcoders&show_icons=true&hide_border=true" width="500"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatcoders&layout=compact" alt="iamsatyanchal" />
 
 
