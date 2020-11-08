@@ -3,11 +3,11 @@
 ## I'm a 🎓Student, 💻 Developer and 🎨 Artist!
 - 🔭 I’m currently working on Artificial Intelligence project.
 - 🌱 I’m currently learning Javascript.
-- ⚡ Fun fact: I love to making useful websites.
+- ⚡ Fun fact: I love to make useful websites.
 
 ### Connect with me:
 
-[<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Satyanchal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Satyanchal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
