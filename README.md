@@ -2,7 +2,7 @@
 
 ## I'm a 🎓Student, 💻 Developer and 🎨 Artist!
 - 🔭 I’m currently working on Artificial Intelligence project.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning JavaScript.
 - ⚡ Fun fact: I ❤️ love to make useful websites.
 
 ### Connect with me:
