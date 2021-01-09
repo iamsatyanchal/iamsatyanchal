@@ -37,7 +37,7 @@
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatcoders&layout=compact&hide_border=true&bg_color=ffffff" alt="iamsatyanchal">
 
 
-[website]: https://bit.ly/fridayassistant
+[website]: https://satyanchal.hashnode.dev/
 [twitter]: https://twitter.com/iamsatyanchal
 [instagram]: https://www.instagram.com/iamsatyanchal
 [webdevplaylist]: #
