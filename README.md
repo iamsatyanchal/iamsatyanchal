@@ -5,7 +5,7 @@ p {
   font-size: 32px;
 }
 ```
-<p>Reference-style:</p>
+<p>Reference-style: </p>
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
