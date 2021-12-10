@@ -48,7 +48,7 @@
 [pizzaseries]: #
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bluehatcoder&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bluehatcoders&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluehatcoders&theme=highcontrast&show_icons=true)
 
