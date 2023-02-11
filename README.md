@@ -2,10 +2,8 @@
 -->
 ### Hi there, I am Satyanchal 👋
 
-## I'm a 🎓Student, 💻 Developer and 🎨 Artist!
-- 🔭 I’m currently working on Artificial Intelligence project.
-- 🌱 I’m currently learning JavaScript.
-- ⚡ Fun fact: I ❤️ love to make useful websites.
+## I'm a 🎓Student, 💻 Developer and an 🎨 Artist!
+- ⚡ Fun fact: I ❤️ love to draw and code
 
 ### Connect with me:
 
