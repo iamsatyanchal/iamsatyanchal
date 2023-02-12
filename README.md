@@ -32,8 +32,8 @@
 
 ---
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<!--img alt="Satyanchal's Github Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=bluehatcoders&show_icons=true&hide_border=true"-->
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatcoders&layout=compact&hide_border=true&bg_color=0d1117" alt="iamsatyanchal">
+<!--img alt="Satyanchal's Github Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=iamsatyanchal&show_icons=true&hide_border=true"-->
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsatyanchal&layout=compact&hide_border=true&bg_color=0d1117" alt="iamsatyanchal">
 
 
 [website]: https://satyanchal.hashnode.dev/
@@ -45,8 +45,8 @@
 [pizzaseries]: #
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bluehatcoders&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamsatyanchal&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluehatcoders&theme=highcontrast&show_icons=true)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsatyanchal&theme=highcontrast&show_icons=true)
 
 
