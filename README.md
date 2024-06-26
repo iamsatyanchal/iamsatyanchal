@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Satyanchal | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />][twitter]
-[<img align="left" alt="Satyanchal | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
+<!--[<img align="left" alt="Satyanchal | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram] -->
 
 <br />
 
