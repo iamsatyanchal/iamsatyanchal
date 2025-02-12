@@ -11,7 +11,7 @@ I'm a 18y/o full stack dev, passionate about crafting intuitive, high-polish dig
   [pplx-don.vercel.app](https://pplx-don.vercel.app)
 
 - **API Point**: A diverse suite of APIs developed to power modern applications.
- [apipoint.co](https://apipoint.co)
+  [apipoint.co](https://apipoint.co)
 
 - **gitprofile**: A sleek, reimagined GitHub profile viewer (work in progress).  
   [gitprofile.tech/{username}](https://gitprofile.tech/username)
