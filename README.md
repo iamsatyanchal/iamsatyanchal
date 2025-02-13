@@ -6,6 +6,8 @@ I'm a 18y/o full stack dev, passionate about crafting intuitive, high-polish dig
 
 - **think**: An AI-powered social media platform that continuously scours for the latest news.  
   [think-ai-bro.vercel.app](https://think-ai-bro.vercel.app)
+  email: testinguser@x.com
+  pass: 12345
 
 - **pplx**: An experimental project featuring a fresh UI built with Mixtral LLM.  
   [pplx-don.vercel.app](https://pplx-don.vercel.app)
