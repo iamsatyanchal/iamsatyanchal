@@ -4,6 +4,7 @@ I'm a 18y/o full stack dev, passionate about crafting intuitive, high-polish dig
 
 **What I'm building:**
 - **🌼 soft quotes**: A collection of inspiring quotes to motivate and uplift your day.
+  [soft-quotes.vercel.app](https://soft-quotes.vercel.app)
 
 - **🤖 think**: An AI-powered social media platform that continuously scours for the latest news.  
   [think-ai-bro.vercel.app](https://think-ai-bro.vercel.app)
@@ -11,7 +12,7 @@ I'm a 18y/o full stack dev, passionate about crafting intuitive, high-polish dig
   pass: 12345
 
 - **🔥 pplx**: An experimental project featuring a fresh UI built with Mixtral LLM.  
-  [pplx-don.vercel.app](https://pplx-don.vercel.app)
+  [pplx-done.vercel.app](https://pplx-done.vercel.app)
 
 - **🔗 API Point**: A diverse suite of APIs developed to power modern applications.  
   [apipoint.co](https://apipoint.co)
