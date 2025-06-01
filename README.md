@@ -18,7 +18,7 @@ I'm a 18y/o full stack dev, passionate about crafting intuitive, high-polish dig
   [apipoint](https://api-point.vercel.app)
 
 - **🥤 gitprofile**: A sleek, reimagined GitHub profile viewer (work in progress).  
-  [gitprofile.tech/{username}](https://gitprofile.tech/username)
+  [gitprofile.tech/{your_github_username}](https://gitprofile.tech/iamsatyanchal)
 
 - **🚀 Portfolio**: My personal hub to showcase projects and ideas.  
   [iamsatya.vercel.app](https://iamsatya.vercel.app)
