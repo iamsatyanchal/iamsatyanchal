@@ -21,7 +21,7 @@ I'm a 18y/o full stack dev, passionate about crafting intuitive, high-polish dig
   [gitprofile.tech/{username}](https://gitprofile.tech/username)
 
 - **🚀 Portfolio**: My personal hub to showcase projects and ideas.  
-  [satyanchal.study](https://satyanchal.study)
+  [iamsatya.vercel.app](https://iamsatya.vercel.app)
 
 I believe that radically empathetic technology is the key to a brighter, more just future. Let's build something extraordinary together!
 
