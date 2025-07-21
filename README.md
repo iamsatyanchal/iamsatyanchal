@@ -1,6 +1,6 @@
 ## Hey, I'm Satya 👋
 
-I'm a 18y/o full stack dev, passionate about crafting intuitive, high-polish digital experiences. I thrive on pushing boundaries and building tools that challenge the status quo.
+I'm a 18y/o :)
 
 **What I'm building:**
 - **🌼 soft quotes**: A collection of inspiring quotes to motivate and uplift your day.  
