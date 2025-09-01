@@ -3,20 +3,18 @@
 I'm a 18y/o :)
 
 **What I'm building:**
-- **🌼 soft quotes**: A collection of inspiring quotes to motivate and uplift your day.  
-  [soft-quotes.vercel.app](https://soft-quotes.vercel.app)
+
+- **🥤 gitprofile**: A sleek, reimagined GitHub profile viewer (work in progress).  
+  [gitprofile.tech/{your_github_username}](https://gitprofile.tech/iamsatyanchal)
+  
+- **🔗 API Point**: A diverse suite of APIs developed to power modern applications.  
+  [apipoint](https://api-point.vercel.app)
 
 - **🤖 think**: An AI-powered social media platform that continuously scours for the latest news.  
   [think-ai-bro.vercel.app](https://think-ai-bro.vercel.app)
 
 - **🔥 pplx**: An experimental project featuring a fresh UI built with Mixtral LLM.  
   [pplx-done.vercel.app](https://pplx-done.vercel.app)
-
-- **🔗 API Point**: A diverse suite of APIs developed to power modern applications.  
-  [apipoint](https://api-point.vercel.app)
-
-- **🥤 gitprofile**: A sleek, reimagined GitHub profile viewer (work in progress).  
-  [gitprofile.tech/{your_github_username}](https://gitprofile.tech/iamsatyanchal)
 
 - **🚀 Portfolio**: My personal hub to showcase projects and ideas.  
   [iamsatya.vercel.app](https://iamsatya.vercel.app)
