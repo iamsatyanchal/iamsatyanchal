@@ -1,7 +1,5 @@
 ## Hey, I'm Satya 👋
 
-I'm a 18y/o :)
-
 **What I'm building:**
 
 - **🥤 gitprofile**: A sleek, reimagined GitHub profile viewer (work in progress).  
