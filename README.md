@@ -14,7 +14,7 @@
 - **🔥 pplx**: An experimental project featuring a fresh UI built with Mixtral LLM.  
   [pplx-done.vercel.app](https://pplx-done.vercel.app)
 
-- **🌌 space xpo**: A simple SpaceX rockets, dragons, missions and launches dashboard. 
+- **🌌 space xpo**: A simple SpaceX rockets, dragons, missions and launches dashboard.  
   [space-xpo.vercel.app](https://space-xpo.vercel.app)
 
 - **🚀 Portfolio**: My personal hub to showcase projects and ideas.  
